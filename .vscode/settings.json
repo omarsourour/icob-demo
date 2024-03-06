@@ -1,0 +1,16 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/*.log": true,
+    "**/node_modules": true
+  },
+
+  "typescript.preferences.importModuleSpecifier": "non-relative"
+}
